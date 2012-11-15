@@ -1,1 +1,1 @@
-[Pre tag bookmarklet](javascript:(function(){window.document.body.innerHTML='<pre>'+window.document.body.innerHTML;})();)
+I've tried but I don't seem to be able to display a bookmarklet link here without breaking markdown... :)
