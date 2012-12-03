@@ -1,3 +1,6 @@
+pre-tag-bookmarklet
+===================
+
 Handy bookmarklet to prepend \<pre\> tags to the inner HTML of the body element.
 
 I use it when error stack traces are displayed with no line breaks
