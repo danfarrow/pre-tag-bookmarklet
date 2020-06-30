@@ -1,8 +1,8 @@
 pre-tag-bookmarklet
 ===================
 
-Handy bookmarklet to prepend \<pre\> tags to the inner HTML of the body element.
+This was a bookmarklet I made to solve a particular problem I had while working on a Zend Framework site.
 
-Use it when error stack traces are displayed with no line breaks to make them readable again.
+My app was displaying some very long error stack traces which were getting clipped, so I made this to prepend \<pre\> tags inside the body element.
 
-Refer to pre-tag-bookmarklet.js to install as a bookmarklet - I tried to display a bookmarklet-able link here but it broke markdown :(
+I'm not sure if it works any more but I'm leaving it here for posterity! Refer to pre-tag-bookmarklet.js to install as a bookmarklet - I tried to display a bookmarklet-able link here but it broke markdown :(
